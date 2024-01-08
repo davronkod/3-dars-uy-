@@ -1,0 +1,317 @@
+*{
+    margin: 0 auto;
+}
+.box{
+    width: 1518px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    
+}
+.box p{
+    color: rgb(183, 183, 183);
+    margin: 0 auto;
+    display: inline;
+    margin-left: 13px;
+}
+.box1{
+    margin-left: 85px;
+}
+.box1 img{
+    margin-left: 170px;
+}
+.box2{
+    margin-left: 850px;
+    margin-top: -20px;
+}
+.box3 button{
+    width: 64px;
+    height: 23px;
+    background-color: black;
+    border: solid black;
+    margin-left: 1230px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.box3{
+    margin-top: -20px;
+    margin-left: 35px;
+}
+button:hover {
+    background-color: white;
+    border: solid rgb(12, 12, 13);
+    color: black;
+    font-weight: 100;
+    
+}
+.box3 h3{
+    font-weight:100;
+    font-size: 16px;
+}
+h3:hover{
+    color: black;
+    font-weight: 100;
+    
+}
+.ras{
+    
+    width: 1518px;
+    height: 1700px;
+}
+.ras img{
+    width: 1518px;
+}
+.box4 h2{
+    font-size: 57px;
+    color: #FFF;
+}
+.box4 p{
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.96px; 
+    letter-spacing: 0.44px;
+    margin-left: -360px;
+}
+.but button{
+    width: 215px;
+    height: 36px;
+    border: 1px solid #FFF;
+    background-color: none;
+    display: inline;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.but{
+    margin-left: 160px;
+}
+button:hover{
+    background-color: rgb(160, 160, 160);
+    border: 1px solid rgb(160, 160, 160);
+}
+.box4{
+    margin-top: -600px;
+    margin-left: 390px;
+}
+.rasm img{
+    width: 740px;
+    height: 500px;
+    display: inline;
+    margin-top: 380px;
+    
+}
+.ran img{
+    width: 424px;
+    height: 160px;
+}
+.ran{
+    margin-left: 810px;
+    margin-top: -570px;
+    text-align: center;
+}
+p:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+p :hover{
+    color: #000;
+}
+.rs img{
+    width: 558px;
+    height: 573.859px;
+}
+.rs h1{
+    font-size: 38px;
+    color: rgb(255, 255, 255);
+    margin-left: 70px;
+}
+.rs p{
+    margin-top: -20px;
+    margin-left: 520px;
+    display: flex;
+    text-align: center; 
+    color: white;
+    font-size: 16px;
+}
+.rs{
+    margin-top: -720px;
+}
+.bb{
+    width: 1517px;
+    height: 1130px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.bb img{
+    width: 1516px;
+    height: 729px;
+    margin-top: 410px;
+    margin-left: 2px;
+}
+.bs h1{
+    font-size: 38px;
+    text-align: center; 
+    color: white;
+}
+.bd button{
+    width: 225px;
+    height: 36px;
+    cursor: pointer;
+    border: 1px solid #FFF;
+    background-color: none;
+    margin-left: 15px;
+
+}
+
+button:hover{
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.bs{
+    margin-top: -490px;
+}
+.nb h1{
+    font-size: 35px;
+}
+.nb{
+    margin-left: 870px;
+    margin-top: -330px;
+}
+.bnm{
+    margin-top: -70px;
+}
+.bnm img{
+    height: 430px;
+}
+.container{
+    display: flex;
+    gap: 40px;
+    background-color: rgb(255, 255, 255);
+    width: 1100px;
+    margin: 0 auto;
+}
+.sa{
+    background-color: rgb(255, 255, 255);
+    width: 395px;
+    height: 222px;
+}
+.sa p{
+    font-size: 22px;
+}
+.sa img{
+    color: black;
+}
+.sa h1{
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.vc{
+    margin-top: 550px;
+}
+.lkj{
+    width: 1505px;
+    height: 433px;
+    margin: 0 auto;
+    margin-top: 70px;
+    background-color: black;
+    display: flex;
+}
+.hp{
+    margin-left: 150px;
+    margin-top: 50px;
+    display: inline;
+}
+.hta{
+    margin-left: -500px;
+    margin-top: 50px;
+}
+
+
+
+.byu{
+    margin-left: 1170px;
+    margin-top: -380px;
+}
+
+
+
+.byd input{
+    width: 231px;
+    height: 38px;
+    margin-left: -120px;
+    display: inline;
+}
+
+
+.lh input{
+    width: 135px;
+    height: 44px;
+}
+.lh{
+    margin-left: 237px;
+    margin-top: -44px;
+}
+
+
+.mg img{
+    display: inline;
+    margin-left: 23px;
+}
+
+
+.mg{
+    margin-left: -253px;
+    margin-top: 35px;
+}
+
+
+
+.byu{
+    width: 250px;
+
+    margin: 0 auto;
+    margin-left: 1260px;
+    margin-top: -378px;
+    position: absolute;
+}
+
+
+
+.bb>a{
+    position: absolute;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
